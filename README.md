@@ -10,9 +10,6 @@ Date submitted: 02/02/2022
 
 Grade: FIRST (93 🎉)
 
-> [!CAUTION]
-> Please ensure to run this using Visual Studio 2022 and .net 6.0+
-
 
 > [!IMPORTANT]
 > 🎓 For students: I wrote this code as part of my degree, and you're welcome to check it out. Feel free to learn from it and even use any functions or snippets that might be useful. Just make sure to give proper credit by citing it in whatever referencing style your university requires - nobody wants to get flagged for plagiarism!
